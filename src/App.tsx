@@ -11,6 +11,8 @@ import "./styles.css";
  *  2.  The sidebar should adhere to the following rules:
  *        - Only visible on screens >= 420px
  *        - **Bonus points**: Uses some sort of transition or animation
+ *
+ *  Screenshot: https://asset.cloudinary.com/fringe/ce0697b57b736f0aba6e542cbb6e1d7b
  */
 
 export default function App() {
